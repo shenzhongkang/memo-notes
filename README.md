@@ -4,3 +4,4 @@
 - [milkdown-render-mermaid](./milkdown-render-mermaid)
 - [use-smart-navigation](./use-smart-navigation)
 - [use-scroll](./use-scroll)
+- [check-app-protocol-exist](./check-app-protocol-exist)
